@@ -1,2 +1,3 @@
-# classification-challenge
-Classification Challenge
+# Classification Challenge
+
+Xpert Learning Assistant, ChatGPT, and/or Phind were used for debugging purposes.
